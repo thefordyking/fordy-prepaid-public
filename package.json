@@ -1,0 +1,18 @@
+{
+  "name": "fordy-prepaid",
+  "version": "1.0.0",
+  "description": "this is the fordy prepaid server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fprdy"
+  ],
+  "author": "alexander cooper",
+  "license": "MIT",
+  "dependencies": {
+    "privacy.com": "^1.1.1",
+    "stripe": "^8.129.0"
+  }
+}
